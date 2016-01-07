@@ -1,10 +1,12 @@
-This is a simple matching game.
+This is a simple matching game, using JavaScript.
 
-It is also as an assignment of Coursera course, Advanced JavaScript of [HTML, CSS, and JavaScript]( https://www.coursera.org/learn/html-css-javascript)
+You could try the game at [Matching Game](http://irmowan.me/MatchingGame/).
+
+It is also as an assignment of Coursera course [HTML, CSS, and JavaScript]( https://www.coursera.org/learn/html-css-javascript).
 
 
 
 *Author:* irmowan
 
-*Date：* 2016.1
+*Date:* 2016.1
 
